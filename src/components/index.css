@@ -1,0 +1,60 @@
+.img-ind {
+  width: 30%;
+  height: 200px;
+  margin: 5px;
+  display: inline-block;
+}
+.set-con {
+  width: 80%;
+  margin: 30px auto;
+}
+.imgCon {
+  margin-top: 20px;
+}
+.img-ind img {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+.img-ind img :hover {
+  cursor: pointer;
+}
+.field input {
+  padding: 7px 12px;
+  width: 40%;
+}
+
+.imgFull {
+  overflow: hidden;
+  padding: 15px;
+}
+.imgFull img {
+  width: 100%;
+}
+.search-form img {
+  width: 30px;
+  vertical-align: middle;
+  margin-left: -31px;
+}
+button.loadMore {
+  border: 1px solid transparent;
+  background-color: #16beb8;
+  padding: 10px 20px;
+  border-radius: 20px;
+  color: #fff;
+  margin-top: 15px;
+}
+button.loadMore :hover {
+  cursor: pointer;
+}
+.modal-content {
+  border: 1px solid #ccc;
+}
+.text-center {
+  text-align: center;
+}
+.modal-content a {
+  float: right;
+  margin-right: 12px;
+  font-size: 24px;
+}
